@@ -8,6 +8,8 @@ Developed in Arc 10.2
 
 This tool takes a layer from the TOC or a .lyr file.  User must specify a field in the given layer on which to set up definition queries. Tool finds all distinct values in field and creates a new layer with a definition query specific to distinct value. The tool can be run a second time on a resulting layer to split on a different field.
 
+The associated xml files contain in-program  documentation for the tool and toolbox.
+
 #####Set-up
 
 #####Quirks
